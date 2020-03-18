@@ -7,7 +7,7 @@
         "wget",
         "curl"
     ],
-    "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+    "packagesite": "http://pkg.cdn.trueos.org/iocage",
     "properties": {
         "mount_devfs": 1,
         "mount_fdescfs": 1,
