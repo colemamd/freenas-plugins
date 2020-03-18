@@ -1,5 +1,5 @@
 {
-    "name": "AdGuard Home",
+    "name": "AdGuard-Home",
     "plugin_schema": "2",
     "release": "11.3-RELEASE",
     "artifact": "https://github.com/colemamd/iocage-plugin-adguard/iocage-plugin-adguard.git",
