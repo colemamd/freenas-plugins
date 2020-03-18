@@ -8,6 +8,9 @@
         "curl"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+    "properties": {
+        "dhcp": 1
+    },
     "fingerprints": {
         "freenas-plugins": [
         {
