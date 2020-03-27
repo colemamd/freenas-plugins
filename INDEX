@@ -4,7 +4,6 @@
         "name": "AdGuard Home",
         "description": "AdGuard Home is a network-wide software for blocking ads & tracking.",
         "icon": "https://raw.githubusercontent.com/colemamd/freenas-plugins/master/icons/adguard.png",
-        "official": false,
-        "primary_pkg": "",
+        "official": false
     }
 }
