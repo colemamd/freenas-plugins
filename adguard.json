@@ -7,7 +7,7 @@
         "wget",
         "curl"
     ],
-    "packagesite": "http://pkg.cdn.trueos.org/iocage",
+    "packagesite": "http://pkg.cdn.trueos.org/iocage/unstable",
     "properties": {
         "mount_devfs": 1,
         "mount_fdescfs": 1,
