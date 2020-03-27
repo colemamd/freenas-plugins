@@ -2,7 +2,7 @@
     "name": "AdGuard-Home",
     "plugin_schema": "2",
     "release": "11.3-RELEASE",
-    "artifact": "https://github.com/colemamd/iocage-plugin-adguard/iocage-plugin-adguard.git",
+    "artifact": "https://github.com/colemamd/iocage-plugin-adguard.git",
     "properties": {
         "dhcp": 1,
         "vnet": "on"
