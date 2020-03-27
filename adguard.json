@@ -4,7 +4,8 @@
     "release": "11.3-RELEASE",
     "artifact": "https://github.com/colemamd/iocage-plugin-adguard/iocage-plugin-adguard.git",
     "properties": {
-        "dhcp": 1
+        "dhcp": 1,
+        "vnet": "on"
     },
     "pkgs": [
         "wget",
