@@ -10,7 +10,7 @@
         "wget",
         "curl"
     ],
-    "packagesite": "http://pkg.cdn.trueos.org/iocage/11.3-RELEASE",
+    "packagesite": "http://pkg.cdn.trueos.org/iocage",
     "fingerprints": {
         "iocage-plugins": [
         {
