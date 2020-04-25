@@ -4,13 +4,13 @@
     "release": "11.3-RELEASE",
     "artifact": "https://github.com/colemamd/iocage-plugin-influxdb.git",
     "properties": {
-        "dhcp": 1,
-        "vnet": "on"
+        "nat": 1,
+        "nat_forwards": "tcp(8086:8086),tcp(8088:8088)"
     },
     "pkgs": [
         "influxdb"
     ],
-    "packagesite": "http://pkg.cdn.trueos.org/iocage",
+    "packagesite": "http://pkg.cdn.trueos.org/iocage/11.3-RELEASE",
     "fingerprints": {
         "iocage-plugins": [{
             "function": "sha256",
