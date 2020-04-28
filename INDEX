@@ -12,5 +12,12 @@
         "description": "InfluxDB is an open-source time series database developed by InfluxData. It is written in Go and optimized for fast, high-availability storage and retreival of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics.",
         "icon": "https://raw.githubusercontent.com/colemamd/freenas-plugins/master/icons/influxdb.png",
         "official": false
+    },
+    "grafana": {
+        "MANIFEST": "grafana.json",
+        "name": "Grafana",
+        "description": "Grafana is a multi-platform open source analytics and interactive visualization software available since 2014. It provides charts, graphs, and alerts for the web when connected to supported data sources.",
+        "icon": "https: //raw.githubusercontent.com/colemamd/freenas-plugins/master/icons/grafana.png",
+        "official": false
     }
 }
