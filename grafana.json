@@ -8,7 +8,7 @@
         "vnet": "on"
     },
     "pkgs": [
-        "grafana"
+        "grafana5"
     ],
     "packagesite": "http://pkg.FreeBSD.org/FreeBSD:11:amd64/latest",
     "fingerprints": {
